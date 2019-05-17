@@ -1,0 +1,12 @@
+{
+  "name": "dashlane-json-to-1password-csv",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "^5.0.0"
+  },
+  "description": "Convert Dashlane json to 1password csv format",
+  "repository": "https://github.com/livet01/dashlane-json-to-1password-csv.git",
+  "author": "David Livet <david.livet@orange.fr>"
+}
